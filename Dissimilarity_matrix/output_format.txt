@@ -1,0 +1,19 @@
+Enter the number of objects:
+4
+Enter the number of columns:
+3
+Enter the table:
+nominal   ordinal    numeric
+CA       excellent    45
+CB       good         34
+CC       average      19
+CA       excellent    50
+
+For binary attributes:
+Enter number of rows:
+3
+Enter number of columns:
+4
+1 0 1 1
+0 1 1 0
+1 0 1 0
